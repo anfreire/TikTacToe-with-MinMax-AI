@@ -1,5 +1,7 @@
 # TikTacToe with MinMax AI
 
+![gif](https://user-images.githubusercontent.com/100360644/219999248-263321a1-ab42-4561-ad54-f26abf17b9bb.gif)
+
 ## MinMax Algorithm
 
 The MinMax algorithm is a decision-making algorithm commonly used in game theory and AI. It works by recursively exploring all possible moves and their outcomes, assuming that the opponent will make the best move for their own interests. The algorithm alternates between maximizing the player's score (the "Max" step) and minimizing the opponent's score (the "Min" step), hence the name "MinMax".
@@ -17,3 +19,4 @@ In this project, I implemented the alpha-beta pruning technique to speed up the 
 ## Acknowledgements
 
 I am extremely grateful to the CS50 team for creating such an excellent course and providing me with the opportunity to learn about AI and game theory. The course has not only taught me about the technical details of these subjects, but also their broader applications and implications. I highly recommend it to anyone interested in these fields.
+
